@@ -5491,6 +5491,11 @@
   "resolved" "https://registry.npmmirror.com/human-signals/-/human-signals-1.1.1.tgz"
   "version" "1.1.1"
 
+"husky@^7.0.1":
+  "integrity" "sha512-gceRaITVZ+cJH9sNHqx5tFwbzlLCVxtVZcusME8JYQ8Edy5mpGDOqD8QBCdMhpyo9a+JXddnujQ4rpY2Ff9SJA=="
+  "resolved" "https://registry.npmmirror.com/husky/-/husky-7.0.1.tgz"
+  "version" "7.0.1"
+
 "iconv-lite@^0.4.24", "iconv-lite@0.4.24":
   "integrity" "sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA=="
   "resolved" "https://registry.npmmirror.com/iconv-lite/-/iconv-lite-0.4.24.tgz"
